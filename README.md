@@ -1,4 +1,6 @@
 📊 HotelPulse – Real-Time Power BI Dashboard for Hospitality Analytics
+
+
 Welcome to HotelPulse, a real-time analytics dashboard created to provide meaningful insights for the Travel & Hospitality industry using Power BI. This project showcases my capability as a Data Analyst to handle large datasets (100K+ rows), clean and transform messy data, and design insightful dashboards that communicate key metrics clearly to decision-makers.
 
 
